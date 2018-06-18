@@ -1,0 +1,11 @@
+C:\Users\fangh\source\repos\ApiNetCore\ApiNetCore\bin\Debug\netcoreapp2.0\ApiNetCore.deps.json
+C:\Users\fangh\source\repos\ApiNetCore\ApiNetCore\bin\Debug\netcoreapp2.0\ApiNetCore.runtimeconfig.json
+C:\Users\fangh\source\repos\ApiNetCore\ApiNetCore\bin\Debug\netcoreapp2.0\ApiNetCore.runtimeconfig.dev.json
+C:\Users\fangh\source\repos\ApiNetCore\ApiNetCore\bin\Debug\netcoreapp2.0\ApiNetCore.dll
+C:\Users\fangh\source\repos\ApiNetCore\ApiNetCore\bin\Debug\netcoreapp2.0\ApiNetCore.pdb
+C:\Users\fangh\source\repos\ApiNetCore\ApiNetCore\obj\Debug\netcoreapp2.0\ApiNetCore.csprojAssemblyReference.cache
+C:\Users\fangh\source\repos\ApiNetCore\ApiNetCore\obj\Debug\netcoreapp2.0\ApiNetCore.csproj.CoreCompileInputs.cache
+C:\Users\fangh\source\repos\ApiNetCore\ApiNetCore\obj\Debug\netcoreapp2.0\ApiNetCore.AssemblyInfoInputs.cache
+C:\Users\fangh\source\repos\ApiNetCore\ApiNetCore\obj\Debug\netcoreapp2.0\ApiNetCore.AssemblyInfo.cs
+C:\Users\fangh\source\repos\ApiNetCore\ApiNetCore\obj\Debug\netcoreapp2.0\ApiNetCore.dll
+C:\Users\fangh\source\repos\ApiNetCore\ApiNetCore\obj\Debug\netcoreapp2.0\ApiNetCore.pdb
